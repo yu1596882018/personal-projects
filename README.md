@@ -51,18 +51,18 @@
 
 ---
 
-### [bread-sdk](https://github.com/yu1596882018/bread-sdk)
-**前端 SDK 工具包**
+### [broad-sdk](https://github.com/yu1596882018/broad-sdk)
+**全栈开发工具集 (Monorepo)**
 
-自研前端 SDK，提供通用工具函数与业务封装。
+一套面向生产环境的全栈开发工具集，基于 Lerna 管理的 Monorepo 架构，包含 web-sdk 和 server-sdk 两个包，提供前后端统一的日志监控、性能分析、错误追踪等能力。
 
-**技术栈**: JavaScript
+**技术栈**: JavaScript, Lerna, Elasticsearch, Kibana
 
 ---
 
 ## 🚀 全栈应用项目
 
-### [楼市查询平台](https://github.com/yu1596882018/changshaHouseMoblie) (2021.2)
+### [楼市查询平台](https://github.com/yu1596882018/changsha-house-mobile) (2021.2)
 **前后端一体化的楼盘销售状态查询平台**
 
 针对住建局官网查询界面简陋的痛点，独立开发的移动端查询平台，接入微信公众号对外开放使用，持续运行近一年。
@@ -78,8 +78,8 @@
 **技术栈**: Vue, Vant, Koa, MySQL2, Sequelize, Redis, request-promise, cheerio, Elasticsearch, Kibana, Lerna
 
 **项目地址**:
-- 前端: [changshaHouseMoblie](https://github.com/yu1596882018/changshaHouseMoblie)
-- 后端: [changshaHouse](https://github.com/yu1596882018/changshaHouse)
+- 前端: [changsha-house-mobile](https://github.com/yu1596882018/changsha-house-mobile)
+- 后端: [changsha-house-backend](https://github.com/yu1596882018/changsha-house-backend)
 
 ---
 
@@ -107,25 +107,25 @@
 ### [storage-transfer-chrome-extension](https://github.com/yu1596882018/storage-transfer-chrome-extension)
 **Chrome 扩展 - 存储数据迁移工具**
 
-一键迁移浏览器 localStorage/sessionStorage 数据的 Chrome 扩展，支持跨域迁移与批量操作。
+一键迁移浏览器存储数据的 Chrome 扩展，支持 Cookie、LocalStorage、SessionStorage 的导出/导入/清除操作。
 
 **技术栈**: Chrome Extension API, JavaScript
 
 ---
 
-### [learningNotes](https://github.com/yu1596882018/learningNotes)
+### [frontend-learning-notes](https://github.com/yu1596882018/frontend-learning-notes)
 **前端学习笔记**
 
-个人前端学习笔记与技术总结。
+个人前端学习笔记与技术总结，包含知识图谱的可视化整理。
 
 ---
 
 ### [qiankun-demo](https://github.com/yu1596882018/qiankun-demo)
 **微前端 qiankun 实践 Demo**
 
-基于 qiankun 的微前端架构实践项目。
+基于 qiankun 整合 Angular 与 Vue 的微前端架构 Demo，包含主应用和多个子应用的完整实践。
 
-**技术栈**: qiankun, Vue
+**技术栈**: qiankun, Vue, Angular
 
 ---
 
