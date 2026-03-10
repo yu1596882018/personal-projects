@@ -114,13 +114,13 @@
 ---
 
 ### [frontend-learning-notes](https://github.com/yu1596882018/frontend-learning-notes)
-**前端学习笔记**
+**2020年前的前端学习笔记**
 
 个人前端学习笔记与技术总结，包含知识图谱的可视化整理。
 
 ---
 
-### [qiankun-demo](https://github.com/yu1596882018/qiankun-demo)
+### [qiankun-demo](https://github.com/yu1596882018/qiankun-demo) (2021.1)
 **微前端 qiankun 实践 Demo**
 
 基于 qiankun 整合 Angular 与 Vue 的微前端架构 Demo，包含主应用和多个子应用的完整实践。
